@@ -114,6 +114,7 @@ jenkins ALL=(ALL) NOPASSWD:ALL
     - Description: *(Optional)* Write a brief description of the pipeline job.
 - Build Triggers
     - Turn on GitHub hook trigger for GITScm polling
+
 **Same as Freestyle Project**
 ---
 
