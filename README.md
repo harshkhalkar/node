@@ -103,6 +103,7 @@ jenkins ALL=(ALL) NOPASSWD:ALL
     
     `http://<server-ip>:3000/`
 
+---
 # Deploying a Node.js Application Using Jenkins (Freestyle Project)
 - Jenkins Home Page
     - New Item
@@ -114,6 +115,7 @@ jenkins ALL=(ALL) NOPASSWD:ALL
 - Build Triggers
     - Turn on GitHub hook trigger for GITScm polling
 **Same as Freestyle Project**
+---
 
 # Additional 
 ## NOTE - If not SSH agent then how?
