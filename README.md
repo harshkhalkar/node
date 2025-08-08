@@ -139,6 +139,8 @@ sshagent(['b1e89f3b-683b-42ff-a2ba-7ce']){
                     ssh -o StrictHostKeyChecking=no ec2-user@<livesrver-public-ip> << 'ENDSSH'
                     //some commands
                 ```
-                }           # Add sh ``` to write commands and use ssh
+                }
 }
 ```
+
+> Add sh ``` to write commands and use ssh
