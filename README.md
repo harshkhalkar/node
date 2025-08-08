@@ -1,4 +1,4 @@
-# Deploying a Node.js Application Using Jenkins (Freestyle Project)
+# > Deploying a Node.js Application Using Jenkins (Freestyle Project)
 
 ## 1. Install Node.js Plugin in Jenkins
 To run a Node.js app, first install the NodeJS plugin from Jenkins Plugin Manager.
