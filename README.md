@@ -115,7 +115,8 @@ jenkins ALL=(ALL) NOPASSWD:ALL
 - Build Triggers
     - Turn on GitHub hook trigger for GITScm polling
 
-**Same as Freestyle Project**
+> **Same as Freestyle Project**
+
 ---
 
 # Additional 
