@@ -104,7 +104,7 @@ jenkins ALL=(ALL) NOPASSWD:ALL
     `http://<server-ip>:3000/`
 
 ---
-# Deploying a Node.js Application Using Jenkins (Freestyle Project)
+# Deploying a Node.js Application Using Jenkins (Pipeline Project)
 - Jenkins Home Page
     - New Item
         - Name: `NodeJS-pipeline`
